@@ -1,4 +1,7 @@
-# Email_Spam_Specification
-Machine Learning Project
+# Email Spam Classification
 
-![](https://m.popkey.co/d28c6e/NJMdm_s-200x150.gif?c=popkey-web&p=popkey&i=sciencetech-ent&l=search&f=.gif)
+Machine Learning: Naive Bayes
+
+*The project is currently in development.*
+
+[Source Code](https://github.com/PizzaPat/Email_Spam_Specification/blob/master/Naive%20Bayes%20-%20Email%20Spam%20Classifier.ipynb)
