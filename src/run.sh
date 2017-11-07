@@ -1,2 +1,3 @@
 #!/bin/sh
-python classify.py
+#python classify.py
+python sklearn.py
