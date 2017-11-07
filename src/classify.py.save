@@ -1,7 +1,0 @@
-import pandas as pd
-
-print("Start processing")data = pd.read_csv('../spam_test.csv')
-print('Head', data.head())
-print("-----------------------\n")
-
-print(data.loc[1:3])
