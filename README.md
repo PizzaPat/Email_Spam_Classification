@@ -1,22 +1,40 @@
-# Email Spam Classification
+<img src="http://1389blog.com/pix/bayes-theorem.png" alt="Swift logo" height="80" >
 
-Machine Learning: Naive Bayes
+ # Email Spam Classification
+ 
+**Welcome to [Naive Bayes Spam Filtering](https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)!**
 
-*The project is currently in development.*
+Naive Bayes spam filtering utilize the [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) to identify spam emails from regular emails. This repository uses [scikit-learn library](https://github.com/scikit-learn/scikit-learn) to perform prediction.
 
-[See our progress, check out the source code.](https://github.com/PizzaPat/Email_Spam_Specification/blob/master/Naive%20Bayes%20-%20Email%20Spam%20Classifier.ipynb)
+ 
+ ## [View Source Code](https://github.com/PizzaPat/Email_Spam_Specification/blob/master/Naive%20Bayes%20-%20Email%20Spam%20Classifier.ipynb)
+ 
+ 
+## System Requirements
+ [Python 3.6](https://www.python.org/downloads/release/python-361/)
+ 
+### Linux Installation:
+    git clone https://github.com/PizzaPat/Email_Spam_Classification
+    cd Email_Spam_Classification/src
 
+Execute the project:
 
-## Requirements:
-[Python 3.6](https://www.python.org/downloads/release/python-361/)
+    ./run.sh
 
+### Windows Installation:
+    git clone https://github.com/PizzaPat/Email_Spam_Classification
+    cd Email_Spam_Classification/src
 
-## Linux Installation:
-- ```git clone https://github.com/PizzaPat/Email_Spam_Classification```
-- ```cd Email_Spam_Classification/src```
-- ```./run.sh```
+Execute the project
 
-## Windows Installation
-- ```git clone https://github.com/PizzaPat/Email_Spam_Classification```
-- ```cd Email_Spam_Classification/src```
-- ```sh run.sh```
+    sh run.sh
+
+### macOS Installation:
+    git clone https://github.com/PizzaPat/Email_Spam_Classification
+    cd Email_Spam_Classification/src
+
+Execute the project:
+
+    ./run.sh
+
+For macOS environment installed python 3 alongside with the default python 2.7, execute with:
