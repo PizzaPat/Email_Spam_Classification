@@ -38,3 +38,5 @@ Execute the project:
     ./run.sh
 
 For macOS environment installed python 3 alongside with the default python 2.7, execute with:
+
+    python3 run.py
