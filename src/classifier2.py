@@ -10,4 +10,4 @@ def email_spam_classifier(training_file, testing_file):
     # --- training phase ---
     df = pd.read_csv(training_file, sep='\n', header=None, names=['message'])
     df['label'] = df['message'].str.split(' ').str[0]
-    
+    print("SOMETHING")
