@@ -1,3 +1,4 @@
+#Multinomial Naive Bayes
 import classifier
 training_file = "../spam_train.txt"
 testing_file = "../spam_test.txt"
